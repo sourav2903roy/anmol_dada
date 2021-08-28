@@ -1,0 +1,196 @@
+
+    html{
+        scroll-behavior: smooth;
+    }
+
+    .brand-logo{
+        height: 30px; width: 30px;
+    }
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .intro{
+        text-align: center; font-size: 18PX;
+    }
+.h1{
+    position: relative;
+    text-align: center;
+    
+}
+.h1-1{
+    text-align: center;
+}
+.div1-div1{
+    text-align: center;
+}
+.div1-img1 {
+    position: relative;
+    width:300px;
+    height: 300px;
+   
+}
+
+  .div2{
+    text-align: center;
+}
+.div2-img{
+    width:200px;
+    height: 200px;
+}
+
+.div2-p{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.hr1,.hr2,.hr3{
+    color:black;
+    border-width: 10px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 25%;
+}
+.place1{
+     /* position: relative; */
+     position: relative;
+     width:300px;
+     height: 300px;
+     
+   
+     margin-top: 20px;;
+     
+    margin-right: 10px;
+
+     margin-bottom: 30px;
+     
+    
+}
+.place2{
+   
+    position: relative;
+    width:300px;
+    height: 300px;
+    
+    
+    margin-top: 20px;;
+    
+    margin-bottom: 30px;
+    
+    
+}
+
+.index-p{
+    text-align: center;
+    margin-left: 10px;
+}
+.ARU{
+  border-left-width: 10px;
+  margin-left: 50px;
+  TEXT-ALIGN: center;
+
+}
+.ARU:hover{
+    color:cadetblue
+}
+
+.aru-p{
+    margin-left: 10px;
+    text-align: center;
+}
+ .hari{
+     margin-top: 40px;
+ }
+ .place1:hover{
+     opacity: 0.7;
+     transition: 0.5s;
+     
+ }
+.place2:hover{
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+
+.col-lg-6{
+    margin-left: 40px;
+    margin-right: 30px;
+       margin: auto;
+
+}
+#about{
+    background-color: #E4F9F5;
+}
+#contact{
+    text-align: center;
+    background-color:#E4F9F5; 
+}
+
+#places{
+    
+    background-color: #E4F9F5;
+    text-align: center;
+}
+.places-p{
+    text-align: center; margin-left: 10px;
+}
+.icons{
+    HEIGHT:30PX;
+    width: 30PX;
+    margin-right: 30px;
+    
+}
+#slideshow{
+   
+    text-align: center;
+    background-color:#08D9D6;
+}
+
+#plans{
+    background-color:#08D9D6; 
+    padding-bottom: 50px;
+}
+#contact1{
+    text-align: center;
+    background-color:#08D9D6; 
+}
+.plans-h1{
+   text-align: center; 
+   font-size:60px ;
+}
+.slide-imgs{
+
+    height: 350px;
+    width:450px;
+    margin-top: 50px;
+    margin-bottom: 20PX;
+    margin-right: 20px;
+}
+
+
+.col-lg-6{
+    margin-top: 30px; 
+    margin-bottom: 20px;
+}
+
+.card-border-primary{
+    border-width: thick; background-color: cornsilk;
+}
+.opts{
+    color: darkseagreen;
+    font-weight: bolder;
+    text-align: center;
+}
+.header-text{
+    color: darkseagreen;
+    text-align: left;
+}
+.PAY{
+    color: dodgerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
